@@ -87,6 +87,7 @@ const Tabs = ({ state: { links, active}, setActive }) => {
            
             <a 
               href="#"
+              rel="noreferrer"
               className={`nav-link ${link.name === active.name && "active"}`}
               style={index === 0 ? styles.left : styles.right }
             >
