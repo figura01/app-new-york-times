@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+Show [demo](https://figura01.github.io/app-new-york-times/)
 
 ### `yarn start`
 
